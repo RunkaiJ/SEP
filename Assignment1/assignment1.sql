@@ -41,7 +41,7 @@ WHERE Name IS NOT NULL AND Color IS NOT NULL;
 --NAME: Chainring Bolts  --  COLOR: Silver
 --NAME: Chainring Nut  --  COLOR: Silver
 --NAME: Chainring  --  COLOR: Black
-SELECT Name, Color
+SELECT TOP 6 Name, Color
 FROM Production.Product
 WHERE Color in ('Black', 'Silver');
 
@@ -71,7 +71,7 @@ WHERE NAME LIKE 'S%';
 --Seat Tube                                            0,00
 --Short-Sleeve Classic Jersey, L           53,99
 --Short-Sleeve Classic Jersey, M          53,99
-SELECT Name, ListPrice
+SELECT TOP 6 Name, ListPrice
 FROM Production.Product
 WHERE Name LIKE 'S%' AND ListPrice IN (0, 53.99)
 ORDER BY Name;
@@ -85,7 +85,7 @@ ORDER BY Name;
 --AWC Logo Cap                                      8,99
 --Seat Lug                                                 0,00
 --Seat Post                                                0,00
-SELECT Name, ListPrice
+SELECT TOP 5 Name, ListPrice
 FROM Production.Product
 WHERE Name LIKE 'A%' OR NAME LIKE 'S%'
 ORDER BY Name;
