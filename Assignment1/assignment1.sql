@@ -41,7 +41,7 @@ WHERE Name IS NOT NULL AND Color IS NOT NULL;
 --NAME: Chainring Bolts  --  COLOR: Silver
 --NAME: Chainring Nut  --  COLOR: Silver
 --NAME: Chainring  --  COLOR: Black
-SELECT TOP 6 Name, Color
+SELECT TOP 6 'NAME: ' + Name +'  --   ' + 'COLOR: ' + Color AS result
 FROM Production.Product
 WHERE Color in ('Black', 'Silver');
 
