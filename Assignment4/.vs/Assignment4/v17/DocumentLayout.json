@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\understandingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\understandingtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\printpyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\printpyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\randompractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\randompractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\reversestringii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\rotateandsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\rotateandsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\playwithconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\playwithconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\mostfrequentnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mostfrequentnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\longestsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\longestsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\incrementto24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\incrementto24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\greetingbasedontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\greetingbasedontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\findprimenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\findprimenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\extracturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\extracturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\extractpalindromes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\extractpalindromes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\daystonextanniversary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\daystonextanniversary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\copyofarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\copyofarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\convertinttotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\convertinttotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\runka\\onedrive\\desktop\\sep\\assignment4\\consoleapp1\\byteloopproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02CECCD0-C7AF-4EB4-BA4B-8BE0BB7F693D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\byteloopproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintPyramid.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\PrintPyramid.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PrintPyramid.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\PrintPyramid.cs",
+              "RelativeToolTip": "ConsoleApp1\\PrintPyramid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:03.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:05.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomPractice.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\RandomPractice.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RandomPractice.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\RandomPractice.cs",
+              "RelativeToolTip": "ConsoleApp1\\RandomPractice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:05.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ReverseString.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ReverseString.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ReverseString.cs",
+              "RelativeToolTip": "ConsoleApp1\\ReverseString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:06.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReverseStringII.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ReverseStringII.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ReverseStringII.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ReverseStringII.cs",
+              "RelativeToolTip": "ConsoleApp1\\ReverseStringII.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:11.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RotateAndSum.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\RotateAndSum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\RotateAndSum.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\RotateAndSum.cs",
+              "RelativeToolTip": "ConsoleApp1\\RotateAndSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:15.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ToDoList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ToDoList.cs",
+              "RelativeToolTip": "ConsoleApp1\\ToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnderstandingTypes.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\UnderstandingTypes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UnderstandingTypes.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\UnderstandingTypes.cs",
+              "RelativeToolTip": "ConsoleApp1\\UnderstandingTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:21.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayWithConsole.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\PlayWithConsole.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\PlayWithConsole.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\PlayWithConsole.cs",
+              "RelativeToolTip": "ConsoleApp1\\PlayWithConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:06:00.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MostFrequentNumber.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\MostFrequentNumber.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MostFrequentNumber.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\MostFrequentNumber.cs",
+              "RelativeToolTip": "ConsoleApp1\\MostFrequentNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:54.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LongestSequence.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\LongestSequence.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\LongestSequence.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\LongestSequence.cs",
+              "RelativeToolTip": "ConsoleApp1\\LongestSequence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IncrementTo24.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\IncrementTo24.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IncrementTo24.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\IncrementTo24.cs",
+              "RelativeToolTip": "ConsoleApp1\\IncrementTo24.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GreetingBasedOnTime.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\GreetingBasedOnTime.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GreetingBasedOnTime.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\GreetingBasedOnTime.cs",
+              "RelativeToolTip": "ConsoleApp1\\GreetingBasedOnTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:43.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FizzBuzz.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\FizzBuzz.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FizzBuzz.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\FizzBuzz.cs",
+              "RelativeToolTip": "ConsoleApp1\\FizzBuzz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:37.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FindPrimeNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\FindPrimeNumbers.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FindPrimeNumbers.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\FindPrimeNumbers.cs",
+              "RelativeToolTip": "ConsoleApp1\\FindPrimeNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:32.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExtractURL.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ExtractURL.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ExtractURL.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ExtractURL.cs",
+              "RelativeToolTip": "ConsoleApp1\\ExtractURL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:05:24.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExtractPalindromes.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ExtractPalindromes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ExtractPalindromes.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ExtractPalindromes.cs",
+              "RelativeToolTip": "ConsoleApp1\\ExtractPalindromes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:03:01.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DaysToNextAnniversary.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\DaysToNextAnniversary.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DaysToNextAnniversary.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\DaysToNextAnniversary.cs",
+              "RelativeToolTip": "ConsoleApp1\\DaysToNextAnniversary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:03:00.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CopyOfArray.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\CopyOfArray.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CopyOfArray.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\CopyOfArray.cs",
+              "RelativeToolTip": "ConsoleApp1\\CopyOfArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:02:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConvertIntToTime.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ConvertIntToTime.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConvertIntToTime.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ConvertIntToTime.cs",
+              "RelativeToolTip": "ConsoleApp1\\ConvertIntToTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:02:56.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ByteLoopProblem.cs",
+              "DocumentMoniker": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ByteLoopProblem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ByteLoopProblem.cs",
+              "ToolTip": "C:\\Users\\runka\\OneDrive\\Desktop\\SEP\\Assignment4\\ConsoleApp1\\ByteLoopProblem.cs",
+              "RelativeToolTip": "ConsoleApp1\\ByteLoopProblem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:02:53.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

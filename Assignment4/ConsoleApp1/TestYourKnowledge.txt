@@ -1,0 +1,63 @@
+Test your Knowledge
+1. What type would you choose for the following ¡°numbers¡±?
+A person¡¯s telephone number
+string
+A person¡¯s height
+float
+A person¡¯s age
+byte
+A person¡¯s gender (Male, Female, Prefer Not To Answer)
+enum
+A person¡¯s salary
+decimal
+A book¡¯s ISBN
+string
+A book¡¯s price
+decimal
+A book¡¯s shipping weight
+float
+A country¡¯s population
+ulong
+The number of stars in the universe
+ulong
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+uint
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+a value type stores the value in the stack; a reference type stores a pointer(address) in the stack that points to the actual content that is stored in the heap.
+boxing is to convert a value type into a reference type; unboxing is to convert a reference type into a value type.
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+managed resources are resources that are handled by the common language runntime(CLR). CLR uses garbage collector to handle allocation and deallocation of memory space.
+unmanaged resources are resources that CLR doesn't handle directly, which requires explicit cleanup. Examples are files, connections and etc.
+4. Whats the purpose of Garbage Collector in .NET?
+the purpose of Garbage Collector in .Net is to handle allocation and deallocation of memory space automatically. It provides releases unused memory, 
+prevents memory leak, improve performance.
+
+Test your Knowledge
+1. What happens when you divide an int variable by 0?
+error: division by constant zero
+2. What happens when you divide a double variable by 0?
+shows infinity
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+it becomes negative
+4. What is the difference between x = y++; and x = ++y;?
+y++: increment is done after
+++y: increment is done before
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+continue: continue to next iteration
+break: break from the loop, execute the rest of function
+return: the function is returned, no more execution.
+6. What are the three parts of a for statement and which of them are required?
+initialization, condition and iteration. None is required
+7. What is the difference between the = and == operators?
+= is to assign and == is to compare.
+8. Does the following statement compile? for ( ; true; ) ;
+yes, it creates an infinite loop.
+9. What does the underscore _ represent in a switch expression?
+_ serves as a default case in a switch expression
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+IEnumerable
