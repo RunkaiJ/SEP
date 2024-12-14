@@ -1,0 +1,42 @@
+﻿Test your Knowledge
+1. Describe the problem generics address.
+
+Generics address the problem of type safety. Before generics, object types were used by the developers. Object types required boxing and unboxing.
+Boxing and unboxing introduce unnecessary boilerplate code and unwanted performance decrease.
+
+2. How would you create a list of strings, using the generic List class?
+
+List<string> stringList = new List<string>();
+
+3. How many generic type parameters does the Dictionary class have?
+
+Dictionary class has 2 generic type parameters: key and value.
+
+4. True/False. When a generic class has multiple type parameters, they must all match.
+
+False, these types don't have to be the same.
+
+5. What method is used to add items to a List object?
+
+List<string> stringList = new List<string>();
+stringList.Add(item);
+
+6. Name two methods that cause items to be removed from a List.
+
+Remove(item) and RemoveAt(index)
+
+7. How do you indicate that a class has a generic type parameter?
+
+<T>
+
+8. True/False. Generic classes can only have one generic type parameter.
+
+False, for example a class have <T1, T2>.
+
+9. True/False. Generic type constraints limit what can be used for the generic type.
+
+True
+
+10. True/False. Constraints let you use the methods of the thing you are constraining to.
+
+True
