@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Life in Antra</title>
+        <style>
+            .outer-table {
+                width: 600px;
+                height: 700px;
+            }
+            .outer-table th,
+            .outer-table td {
+                width: 25%;
+            }
+            table,
+            th,
+            td {
+                border: 1px solid black;
+            }
+            .h-left {
+                text-align: left;
+            }
+            .h-center {
+                text-align: center;
+            }
+            .h-right {
+                text-align: right;
+            }
+            .v-top {
+                vertical-align: top;
+            }
+            .v-middle {
+                vertical-align: middle;
+            }
+            .v-bot {
+                vertical-align: bottom;
+            }
+            .inner-table {
+                height: 90%;
+                width: 90%;
+                margin: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <table class="outer-table">
+            <thead>
+                <tr>
+                    <th colspan="4" class="v-middle h-center">
+                        <h1>Antra LIFE</h1>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2" class="h-left v-top">Google</td>
+                    <td colspan="2" class="h-right v-top">GitHub</td>
+                </tr>
+                <tr>
+                    <td class="h-center v-top">FB</td>
+                    <td class="h-center v-middle">Gmail</td>
+                    <td class="h-center v-bot">YouTube</td>
+                    <td class="h-center v-middle">2048</td>
+                </tr>
+                <tr>
+                    <td colspan="1" class="h-right v-bot">Food</td>
+                    <td colspan="2" class="h-left v-bot">Game</td>
+                    <td colspan="1">
+                        <table class="inner-table">
+                            <tbody>
+                                <tr>
+                                    <td class="h-center v-middle">
+                                        Social Life
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="h-center v-middle">Sleep</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" class="v-middle h-right">
+                        <h2>Beer ></h2>
+                    </td>
+                    <td class="v-middle h-left">WC</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

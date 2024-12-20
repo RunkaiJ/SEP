@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Nested Tables</title>
+        <style>
+            table,
+            th {
+                border: 1px solid black;
+            }
+            table table {
+                margin: 3px;
+            }
+        </style>
+    </head>
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <a href="https://antra.net"
+                            ><img
+                                src="https://antra.com/wp-content/uploads/2023/03/Antra-black.png"
+                                alt="Antra Logo"
+                                height="50px"
+                        /></a>
+                    </th>
+                    <th>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><h1>Software</h1></th>
+                                </tr>
+                                <tr>
+                                    <th><h1>Developer</h1></th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </th>
+                </tr>
+            </thead>
+        </table>
+    </body>
+</html>
